@@ -1,2 +1,2 @@
 # manifest
-Conceptualization of Object Oriented Civil Design and Patterns.
+Conceptualization of Object Oriented Civic Design and Patterns.
